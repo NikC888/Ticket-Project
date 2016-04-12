@@ -1,8 +1,8 @@
-#### BasicStructure
+#### Ticket Project
 
-### Date
+### April 11, 2016
 
-Basic structure for future projects
+Ticket project, where user enters ticket type and details concerining said ticket. Makes use of a collection as well.
 
 * Git
 * Java 7
